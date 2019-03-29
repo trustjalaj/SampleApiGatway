@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "ApiGatwayJhipster",
+    "packageName": "io.jalaj.application",
+    "packageFolder": "io/jalaj/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "MGZiZjMzNmM4YTY2MGExZTZmMjQ1ZTQxNGI1NzI1OTdkNGZmMmUyYTAwYjg1ZDQwZTBjNjQwMDk3NjY2NWNjMzViMzVlNzRiMWE2N2JmYWUzOGRkY2IwMmY4ZTNmYWFiMzJlNjM0NWY3OGQxYWM1YWQzMjY0MTliMTM5Zjc5NGM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "trustjalaj",
+  "repository-name": "SampleApiGatway"
+}
